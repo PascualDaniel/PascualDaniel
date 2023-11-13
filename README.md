@@ -23,8 +23,8 @@
 
 <h2>𝑆𝑡𝑎𝑡𝑠</h2>
 <p align="left">&nbsp;
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=uo269728&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="uo269728" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uo269728&layout=compact&theme=dracula&hide_border=true&hide=css,html&langs_count=8">
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PascualDaniel&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="uo269728" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PascualDaniel&layout=compact&theme=dracula&hide_border=true&hide=css,html&langs_count=8">
 </p>
 
 
