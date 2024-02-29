@@ -9,7 +9,7 @@
 <h2>𝐴𝑏𝑜𝑢𝑡 𝑀𝑒</h2>
 <ul>
   <li>🔭 I’m currently working on something</li>
-  <li>🌱 I’m currently learning <b>Search Algorithms and Mahjong</b>.</li>
+  <li>🌱 I’m currently learning <b>Computer Shaders and Graphics Programing</b>.</li>
   <li>📫 How to reach me: <b><a href="mailto:danielpascuallopez@hotmail.com">danielpascuallopez@hotmail.com</a></b></li>
 </ul>
 
