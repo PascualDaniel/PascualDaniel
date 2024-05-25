@@ -11,7 +11,7 @@
   <li>🔭 I’m currently working on a Computer Graphics Engine</li>
   <li>🌱 I’m currently learning <b>Computer Shaders and Graphics Programing</b>.</li>
   <li>📫 How to reach me: <b><a href="mailto:danielpascuallopez@hotmail.com">danielpascuallopez@hotmail.com</a></b></li>
-  <li>My Portfolio <a href="https://pascualdaniel.github.io/"></li>
+  <li>My Portfolio <b><a href="https://pascualdaniel.github.io/">here</a></b></li>
 </ul>
 
 
